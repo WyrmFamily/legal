@@ -1,6 +1,35 @@
-# MyBot Legal Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>WyrmFamily Bot Legal</title>
+<style>
+body{
+font-family: Arial;
+max-width: 800px;
+margin: 40px auto;
+line-height: 1.6;
+color:#333;
+}
+a{
+color:#5865F2;
+text-decoration:none;
+font-weight:bold;
+}
+</style>
+</head>
 
-Welcome to the legal pages for my Discord bot.
+<body>
 
-- [Terms of Service](./tos)
-- [Privacy Policy](./privacy)
+<h1>WyrmFamily Discord Bot</h1>
+
+<p>Official legal pages for the WyrmFamily Discord bot.</p>
+
+<h2>Legal</h2>
+
+<ul>
+<li><a href="terms.html">Terms of Service</a></li>
+<li><a href="privacy.html">Privacy Policy</a></li>
+</ul>
+
+</body>
+</html>
