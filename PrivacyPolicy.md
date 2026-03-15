@@ -1,46 +1,35 @@
-# Discord Bot Privacy Policy
+<!DOCTYPE html>
+<html>
+<head>
+<title>Privacy Policy</title>
+<style>
+body{font-family:Arial;max-width:800px;margin:40px auto;line-height:1.6;}
+</style>
+</head>
 
-**Last Updated:** March 15, 2026
+<body>
 
-## 1. Introduction
-This Privacy Policy explains how this Discord bot ("the Bot") collects, uses, and stores information when users interact with it. By using the Bot, you agree to the collection and use of information in accordance with this policy.
+<h1>Privacy Policy</h1>
 
-## 2. Information We Collect
-To provide functionality, the Bot may collect and store limited Discord-related data, including:
+<p><b>Last Updated:</b> March 15, 2026</p>
 
-- Discord User IDs
-- Server (Guild) IDs
-- Channel IDs
-- Command usage data
-- Configuration settings set by server administrators
+<h2>Information Collected</h2>
+<p>The bot may store:</p>
 
-The Bot **does not intentionally collect personal information** such as real names, addresses, or passwords.
+<ul>
+<li>User IDs</li>
+<li>Server IDs</li>
+<li>Channel IDs</li>
+<li>Command usage</li>
+</ul>
 
-## 3. How We Use Data
-Collected data is used only for operating and improving the Bot, including:
+<h2>Data Usage</h2>
+<p>This data is only used for bot functionality.</p>
 
-- Executing commands
-- Saving server settings
-- Preventing abuse or misuse
-- Improving bot functionality and stability
+<h2>Data Removal</h2>
+<p>You may request data removal by contacting the developer.</p>
 
-## 4. Data Storage
-Data may be stored in databases or logs required for the Bot’s operation. Data is retained only as long as necessary to provide the Bot’s services.
+<p><a href="/">Back</a></p>
 
-## 5. Data Sharing
-The developer **does not sell, trade, or share collected data with third parties**, except when required by law.
-
-## 6. Data Removal
-Server owners or users may request the removal of stored data related to them or their server. Requests can be made by contacting the developer.
-
-## 7. Security
-Reasonable steps are taken to protect stored information. However, no system can guarantee complete security.
-
-## 8. Children’s Privacy
-The Bot is intended for use on Discord and follows Discord’s minimum age requirements. The Bot does not knowingly collect data from children under the age required by Discord.
-
-## 9. Changes to This Policy
-This Privacy Policy may be updated from time to time. Continued use of the Bot after changes means you accept the updated policy.
-
-## 10. Contact
-If you have questions about this Privacy Policy or data usage, contact the developer through Discord or the bot's support server.
+</body>
+</html>
